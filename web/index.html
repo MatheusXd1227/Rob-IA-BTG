@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BE RH - Leitor de Boletos</title>
+    <link rel="shortcut icon" href="logo.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="/eel.js"></script>
+    
+    <style>
+        .card {
+            height: auto !important; 
+            min-height: 450px;
+            padding-bottom: 40px !important;
+        }
+
+        /* =========================================
+           ANIMAÇÕES MINIMALISTAS
+        ========================================= */
+        
+        .file-button, #btn-capturar, .btn-secundario {
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        }
+        .file-button:hover, #btn-capturar:not(:disabled):hover, .btn-secundario:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 7px 15px rgba(0, 0, 0, 0.15);
+        }
+
+        @keyframes pulseGlow {
+            0% { opacity: 0.6; transform: scale(0.98); }
+            50% { opacity: 1; transform: scale(1); }
+            100% { opacity: 0.6; transform: scale(0.98); }
+        }
+        .processando-animacao {
+            animation: pulseGlow 2s infinite ease-in-out;
+            pointer-events: none;
+        }
+
+        @keyframes slideUpFade {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animar-entrada {
+            animation: slideUpFade 0.5s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="logo-container">
+            <img src="logo.jpg" alt="Logo BE RH" class="logo-berh">
+        </div>
+
+        <h1>Extração Boletos (IA)</h1>
+        
+        <div class="radio-group">
+            <input type="radio" id="lote" name="tipo_captura" checked>
+            <label for="lote">Captura de números de boletos em lote (.ZIP)</label>
+        </div>
+
+        <div class="file-button" onclick="escolherZip()">
+            <span class="icon">📂</span>
+            <span id="texto-zip" class="file-text">Selecionar Arquivo(s) ZIP</span>
+        </div>
+
+        <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 15px;">
+            <div class="file-button" onclick="escolherModelo()" style="margin-bottom: 0; flex-grow: 1;">
+                <span class="icon">📄</span>
+                <span id="texto-modelo" class="file-text">Modelo Excel (Opcional)</span>
+            </div>
+            
+            <button id="btn-limpar-modelo" onclick="limparModelo()" style="display: none; background-color: #d11c5e; color: white; border: none; border-radius: 8px; padding: 12px 15px; cursor: pointer; font-weight: bold; transition: 0.3s;" title="Remover Modelo">
+                ✖
+            </button>
+        </div>
+
+        <button id="btn-capturar" onclick="iniciarExtracao()">▶ INICIAR CAPTURA</button>
+        
+        <p id="status-mensagem" style="font-weight: bold; margin-top: 15px;"></p>
+
+        <div id="container-botoes" style="display: none; flex-direction: column; gap: 10px; margin-top: 15px;">
+            
+            <button id="btn-abrir-dados" class="btn-secundario" style="background-color: #2e1c5b; color: white; border: none; padding: 12px; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 14px;">
+                📄 Abrir Planilha de Boletos
+            </button>
+            
+            <button id="btn-abrir-relatorio" class="btn-secundario" style="background-color: #d11c5e; color: white; border: none; padding: 12px; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 14px;">
+                📊 Verificar Relatório de Status
+            </button>
+
+            <button id="btn-abrir-pasta" class="btn-secundario" style="background-color: #555555; color: white; border: none; padding: 12px; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 14px; margin-top: 5px;">
+                📂 Abrir Local dos Arquivos
+            </button>
+            
+        </div>
+    </div>
+
+   <script>
+        // Array global para armazenar múltiplos caminhos de arquivos ZIP
+        let caminhosZipGlobal = [];
+        let caminhoModeloGlobal = "";
+        let caminhoPlanilhaDados = "";
+        let caminhoPlanilhaRelatorio = "";
+
+        // Carrega o modelo de Excel salvo automaticamente
+        window.onload = async function() {
+            let modeloSalvo = await eel.carregar_config_modelo()();
+            if (modeloSalvo) {
+                caminhoModeloGlobal = modeloSalvo;
+                document.getElementById("texto-modelo").innerText = modeloSalvo.split(/[\\/]/).pop();
+                document.getElementById("btn-limpar-modelo").style.display = "block";
+            }
+        };
+
+        // Permite selecionar 1 ou mais arquivos ZIP
+        async function escolherZip() {
+            let caminhos = await eel.selecionar_arquivo_zip()();
+            if (caminhos && caminhos.length > 0) {
+                caminhosZipGlobal = caminhos;
+                
+                if (caminhos.length === 1) {
+                    document.getElementById("texto-zip").innerText = caminhos[0].split(/[\\/]/).pop();
+                } else {
+                    document.getElementById("texto-zip").innerText = caminhos.length + " arquivos ZIP selecionados";
+                }
+            }
+        }
+
+        async function escolherModelo() {
+            let caminho = await eel.selecionar_arquivo_modelo()();
+            if (caminho) {
+                caminhoModeloGlobal = caminho;
+                document.getElementById("texto-modelo").innerText = caminho.split(/[\\/]/).pop();
+                document.getElementById("btn-limpar-modelo").style.display = "block";
+                eel.salvar_config_modelo(caminho)(); 
+            }
+        }
+
+        function limparModelo() {
+            caminhoModeloGlobal = "";
+            document.getElementById("texto-modelo").innerText = "Modelo Excel (Opcional)";
+            document.getElementById("btn-limpar-modelo").style.display = "none";
+            eel.salvar_config_modelo("")(); 
+        }
+
+        eel.expose(atualizar_status_js);
+        function atualizar_status_js(mensagem) {
+            document.getElementById("status-mensagem").innerText = mensagem;
+        }
+
+        async function iniciarExtracao() {
+            if (caminhosZipGlobal.length === 0) {
+                alert("Por favor, selecione pelo menos um arquivo ZIP primeiro.");
+                return;
+            }
+
+            document.getElementById("status-mensagem").innerText = "Iniciando processamento...";
+            document.getElementById("status-mensagem").style.color = "#333";
+            
+            let btnCapturar = document.getElementById("btn-capturar");
+            btnCapturar.disabled = true;
+            btnCapturar.classList.add("processando-animacao");
+            
+            let containerBotoes = document.getElementById("container-botoes");
+            containerBotoes.style.display = "none";
+            containerBotoes.classList.remove("animar-entrada");
+
+            // Envia o ARRAY de caminhos ZIP para o Python processar
+            let resposta = await eel.iniciar_extracao(caminhosZipGlobal, caminhoModeloGlobal)();
+            
+            console.log("Resposta do Python:", resposta);
+
+            btnCapturar.disabled = false;
+            btnCapturar.classList.remove("processando-animacao");
+
+            let deuSucesso = false;
+
+            if (typeof resposta === "object" && resposta !== null) {
+                if (resposta.status === "sucesso") {
+                    deuSucesso = true;
+                    document.getElementById("status-mensagem").innerText = resposta.mensagem + " ✅"; 
+                    caminhoPlanilhaDados = resposta.planilha_dados || "";
+                    caminhoPlanilhaRelatorio = resposta.planilha_relatorio || "";
+                } else {
+                    document.getElementById("status-mensagem").innerText = resposta.mensagem;
+                }
+            } 
+            else if (typeof resposta === "string") {
+                if (resposta.toLowerCase().includes("sucesso")) {
+                    deuSucesso = true;
+                    document.getElementById("status-mensagem").innerText = "Extração concluída com sucesso! ✅";
+                    
+                    let linhas = resposta.split("\n");
+                    caminhoPlanilhaDados = linhas.length > 1 ? linhas[1] : "";
+                    caminhoPlanilhaRelatorio = caminhoPlanilhaDados; 
+                } else {
+                    document.getElementById("status-mensagem").innerText = resposta;
+                }
+            }
+
+            // Exibe os botões se houver sucesso
+            if (deuSucesso) {
+                document.getElementById("status-mensagem").style.color = "#2e1c5b"; 
+                
+                containerBotoes.style.display = "flex";
+                containerBotoes.classList.add("animar-entrada");
+
+                document.getElementById("btn-abrir-dados").onclick = function() {
+                    if(caminhoPlanilhaDados) {
+                        eel.abrir_arquivo_excel(caminhoPlanilhaDados)();
+                        eel.minimizar_janela()(); 
+                    }
+                };
+
+                document.getElementById("btn-abrir-relatorio").onclick = function() {
+                    if(caminhoPlanilhaRelatorio) {
+                        eel.abrir_arquivo_excel(caminhoPlanilhaRelatorio)();
+                        eel.minimizar_janela()(); 
+                    }
+                };
+                
+                document.getElementById("btn-abrir-pasta").onclick = function() {
+                    if(caminhoPlanilhaDados) {
+                        eel.abrir_pasta_do_arquivo(caminhoPlanilhaDados)(); 
+                        eel.minimizar_janela()();
+                    }
+                };
+            } else {
+                document.getElementById("status-mensagem").style.color = "red";
+            }
+        }
+    </script>
+</body>
+</html>

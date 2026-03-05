@@ -1,0 +1,17 @@
+# Ambientes Virtuais e Variáveis de Ambiente
+venv/
+env/
+.env
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Dados sensíveis e arquivos da rotina (Notas e Planilhas)
+*.pdf
+*.xlsx
+*.xls
+*.csv
+
+# Arquivos temporários do Windows
+Thumbs.db
