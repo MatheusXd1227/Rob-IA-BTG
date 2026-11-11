@@ -185,6 +185,8 @@ Só 3 personagens têm fala, e as falas são curtíssimas. O restante é narraç
 
 ## 5. Cenário, figurino e objetos (baixo custo)
 
+> 🛒 Lista completa de compras, preços e o que pedir emprestado: [lista-de-materiais.md](lista-de-materiais.md)
+
 - **Manjedoura:** caixote de feira + palha ou papel kraft picado
 - **Fundo:** TNT preto + pisca-pisca formando uma estrela
 - **Fogueira:** lanterna + celofane laranja + gravetos
