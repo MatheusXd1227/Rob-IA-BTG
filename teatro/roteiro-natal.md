@@ -6,22 +6,26 @@ Apresentação de **~30 minutos** para **elenco pequeno**, em que **quem canta t
 
 ---
 
-## 1. Estrutura: cena curta → louvor
+## 1. Estrutura: cena → louvor
 
-A peça alterna **cenas curtas de teatro (2–4 min)** com **louvores**. Cada cena termina, os atores vão até os microfones e cantam a música que "responde" ao que acabou de acontecer.
+A peça alterna **cenas de teatro** com **louvores**. Cada cena termina, os atores vão até os microfones e cantam a música que "responde" ao que acabou de acontecer. A ordem das músicas segue a **letra** de cada uma:
 
 | Bloco | Teatro (com narração ao fundo) | Depois, o louvor | Quem canta |
 |-------|-------------------------------|------------------|-----------|
-| 1 | **No princípio**: criação, queda e promessa | 🎵 **Gênesis** (Projeto Sola) | Elenco adulto |
-| 2 | **O anúncio e a viagem**: Gabriel, Maria, José e "não há lugar" | 🎵 **Medley Natal** (Paulo Cesar Baruk e Palavra Tocada) | Elenco adulto |
-| 3 | **A manjedoura**: o nascimento | 🎵 **Noite de Paz** (Paulo Cesar Baruk e Palavra Tocada) | ⭐ **Crianças** (vestidas de anjos) |
-| 4 | **Os pastores**: o anúncio no campo | 🎵 **Nasceu o Redentor** (Cantor Cristão nº 28) | ⭐ **Todos**: elenco, crianças e igreja |
+| 1 | **A promessa e o nascimento**: criação, queda, profetas, anúncio a Maria, sonho de José, "não há lugar" e o nascimento (≈ 9 min) | 🎵 **Noite de Paz / Jesus, Te Amamos** (Paulo Cesar Baruk) | ⭐ **Crianças** (vestidas de anjos) |
+| 2 | **O anúncio aos pastores**: o anjo aparece no campo (≈ 2 min) | 🎵 **Gênesis** (Projeto Sola): "Trago boas notícias…" | Anjo e pastores (adultos) |
+| 3 | **Os pastores em Belém**: adoram o menino e voltam louvando (≈ 2 min) | 🎵 **Medley Natal** (Paulo Cesar Baruk): "Surgem anjos proclamando…" | Adultos + crianças no "Glória" |
+| 4 | **Da manjedoura à cruz**: mensagem final (≈ 1 min) | 🎵 **Nasceu o Redentor** (Cantor Cristão nº 28) | ⭐ **Todos**: elenco, crianças e igreja |
 
 Links: [Gênesis](https://youtu.be/9vwQfxnLFgg) · [Medley Natal](https://youtu.be/hIYDzNoeZmk) · [Noite de Paz](https://youtu.be/ZbIkwZIu3qE) · [Nasceu o Redentor](https://youtu.be/koAO-EqTNKE)
 
-**Por que as crianças cantam Noite de Paz:** é a cena mais delicada da peça. Ver crianças vestidas de anjo em volta da manjedoura emociona muito, e a música é lenta, o que facilita para elas. Se a versão de Paulo Cesar Baruk for difícil demais, as crianças cantam só o refrão e um adulto canta as estrofes.
+**Por que esta ordem:**
+- **Noite de Paz / Jesus, Te Amamos** fala do nascimento em Belém e termina em adoração ("Jesus, Te amamos… de coração"). É o fechamento do nascimento, e o "Jesus, Te amamos" é fácil para as crianças.
+- **Gênesis** é a própria mensagem do anjo aos pastores ("Trago boas notícias… vos nasceu o Salvador, que é Cristo, o Senhor"). A música faz parte da cena.
+- **O Medley** canta os anjos proclamando e os pastores indo ver o menino, e depois vira adoração ("Reina em mim", "Grandioso és Tu"). Vem depois que os pastores encontram Jesus.
+- **Nasceu o Redentor** é proclamação para o mundo todo: o fechamento, com a igreja cantando junto.
 
-**Por que todos cantam Nasceu o Redentor no final:** é hino do Cantor Cristão, a igreja conhece e consegue cantar junto. É o fechamento natural da peça.
+O Bloco 1 é mais longo porque conta a história toda até o nascimento. Ele já está dividido em partes curtas (1a a 1e) com blackouts entre elas, então não fica cansativo.
 
 ---
 
@@ -47,7 +51,7 @@ Se preferir narração ao vivo, a pessoa fica fora do palco com um microfone, ma
 ### Troca de personagens com figurino-base
 Todos usam uma **túnica neutra** (bege/marrom/branca) a peça inteira. Para trocar de personagem, basta **acrescentar uma peça**:
 - Maria: manto azul na cabeça
-- Gabriel: faixa ou capa dourada
+- Gabriel / Anjo do Senhor: faixa ou capa dourada
 - Pastor: pano listrado no ombro + cajado
 - Hospedeiro: avental/pano na cintura
 
@@ -61,15 +65,17 @@ Todos os personagens têm **falas curtas** (veja a Parte 3 do [texto completo](t
 
 | Ator | Bloco 1 | Bloco 2 | Bloco 3 | Bloco 4 | Canta |
 |------|---------|---------|---------|---------|-------|
-| **A** | Eva | **Maria** | **Maria** | Maria | Gênesis, Medley, final |
-| **B** | Adão | **José** | **José** | José | Gênesis, Medley, final |
-| **C** | Criação (tecidos) | **Gabriel** | — | **Gabriel** | Gênesis, Medley, final |
-| **D** | Criação (tecidos) | Hospedeiro 1 | — | Pastor 1 | Gênesis, Medley, final |
-| **E** | Criação (tecidos) | Hospedeiro 2 | — | Pastor 2 | Gênesis, Medley, final |
-| **F** | Criação (tecidos) | Moradora de Belém | — | Pastor 3 | Gênesis, Medley, final |
-| **Crianças** | — | (opcional: povo) | **Anjos na manjedoura** | Anjos | **Noite de Paz**, final |
+| **A** | Eva → **Maria** | Maria (na manjedoura) | **Maria** | Maria | Gênesis*, Medley, final |
+| **B** | Adão → **José** | José (na manjedoura) | **José** | José | Gênesis*, Medley, final |
+| **C** | Tecidos → **Gabriel** → Anjo (sonho de José) | **Anjo do Senhor** | Anjo | Anjo | Gênesis, Medley, final |
+| **D** | Tecidos → Hospedeiro 1 | **Pastor 1** | **Pastor 1** | Pastor 1 | Gênesis, Medley, final |
+| **E** | Tecidos → Hospedeiro 2 | Pastor 2 | Pastor 2 | Pastor 2 | Gênesis, Medley, final |
+| **F** | Tecidos → Moradora de Belém | Pastor 3 | Pastor 3 | Pastor 3 | Gênesis, Medley, final |
+| **Crianças** | Anjos na manjedoura (no fim) | Anjos ("Glória a Deus!") | Anjos | Anjos | **Noite de Paz**, "Glória" do Medley, final |
 
-Com **4 adultos**, junte os papéis de C/D e E/F. Com **mais gente**, separe Gabriel e pastores em pessoas diferentes.
+\* A e B ficam na manjedoura durante Gênesis: cantam dali se houver microfone.
+
+Com **4 adultos**, veja o fim do [texto completo](texto-falas-e-narracao.md). Com **mais gente**, separe Adão/José, os hospedeiros e os pastores em pessoas diferentes.
 
 **Equipe fora do palco (mínimo 2 pessoas):** 1 operador de som (narração + músicas) e 1 diretor/contrarregra (coloca a manjedoura, ajuda nas trocas e cuida das crianças).
 
@@ -84,11 +90,10 @@ Resumo da sequência:
 | | Cena | Falas ao vivo | Narração | Louvor |
 |-|------|---------------|----------|--------|
 | Abertura | Palco escuro | — | 01 | — |
-| Bloco 1 | Criação, queda e promessa | Adão, Eva | 02, 03, 04 | 🎵 Gênesis (adultos) |
-| Bloco 2 | Anúncio a Maria, sonho de José, viagem, "não há lugar" | Gabriel, Maria, José, Hospedeiros, Moradora | 05, 06, 07, 08 | 🎵 Medley Natal (adultos) |
-| Bloco 3 | O nascimento | Maria, José | 09 | 🎵 Noite de Paz (crianças) |
-| Bloco 4 | Pastores e anjos | Pastores, Gabriel, crianças, Maria | 10 | 🎵 Nasceu o Redentor (todos) |
-| Encerramento | "Há lugar para Ele?" | — | 11 | — |
+| Bloco 1 | Criação → nascimento | Adão, Eva, Gabriel, Maria, Anjo, José, Hospedeiros, Moradora | 02 a 09 | 🎵 Noite de Paz / Jesus, Te Amamos (crianças) |
+| Bloco 2 | Anúncio aos pastores | Pastores, Anjo, crianças | 10 | 🎵 Gênesis (anjo e pastores) |
+| Bloco 3 | Pastores em Belém | Pastor 1, Maria | 11 | 🎵 Medley Natal (adultos + crianças) |
+| Bloco 4 | Da manjedoura à cruz | Pastor 1 (convite à igreja) | 12 | 🎵 Nasceu o Redentor (todos) |
 
 ---
 
@@ -118,13 +123,13 @@ Resumo da sequência:
 - [ ] Definir: músicas ao vivo com banda ou playback?
 - [ ] **Adultos, ensaio 1:** leitura do roteiro + ensaio vocal de Gênesis e Medley
 - [ ] **Adultos, ensaio 2:** ensaio vocal + decidir cortes do medley
-- [ ] **Crianças, ensaio 1:** aprender Noite de Paz (só ouvir e cantar junto)
-- [ ] Escolher a voz da narração e **gravar as 9 faixas** até o fim da semana
+- [ ] **Crianças, ensaio 1:** aprender "Jesus, Te amamos" e o "Glória a Deus nas alturas" (depois, Noite de Paz)
+- [ ] Escolher a voz da narração e **gravar as 12 faixas** até o fim da semana
 
 ### Semana 2 — Marcar as cenas
-- [ ] **Adultos, ensaio 3:** Blocos 1 e 2 (cena + caminhar até os pedestais + música)
-- [ ] **Adultos, ensaio 4:** Blocos 3 e 4 + encerramento
-- [ ] **Crianças, ensaio 2:** Noite de Paz + onde ficar em volta da manjedoura
+- [ ] **Adultos, ensaio 3:** Bloco 1 inteiro (partes 1a a 1e)
+- [ ] **Adultos, ensaio 4:** Blocos 2, 3 e 4 (cena + caminhar até os pedestais + música)
+- [ ] **Crianças, ensaio 2:** Noite de Paz + onde ficar em volta da manjedoura + a fala "Glória a Deus nas alturas"
 - [ ] Começar a montar figurino-base e objetos
 
 ### Semana 3 — Passar tudo junto
@@ -150,17 +155,18 @@ Coloque tudo numa pasta ou playlist **nesta ordem**:
 | 2 | 🔊 Narração 02 | Luz sobe, tecidos se movem |
 | 3 | 🔊 Narração 03 | Eva: "E Ele fez tudo isso… para nós." |
 | 4 | 🔊 Narração 04 | Adão: "O que foi que nós fizemos?" |
-| 5 | 🎵 **Gênesis** | Eva: "Um Redentor… Ele vai vir." |
-| 6 | 🔊 Narração 05 | Fim de Gênesis, elenco volta para trás |
-| 7 | 🔊 Narração 06 | José se deita para dormir |
-| 8 | 🔊 Narração 07 | José: "Maria… eu acredito. Vamos juntos." |
-| 9 | 🔊 Narração 08 | José: "Muito obrigado. Deus te abençoe." |
-| 10 | 🎵 **Medley Natal** | Fim da Narração 08 |
-| 11 | 🔊 Narração 09 | Luz acende na manjedoura (após 3 s de silêncio) |
-| 12 | 🎵 **Noite de Paz** (crianças) | José: "Emanuel. Deus conosco." |
-| 13 | 🔊 Narração 10 | Pastores sentados na fogueira |
-| 14 | 🎵 **Nasceu o Redentor** (todos) | Maria: "Ele é. A promessa se cumpriu." |
-| 15 | 🔊 Narração 11 | Fim da música, todos congelados |
+| 5 | 🔊 Narração 05 | Blackout depois de Eva: "Um Redentor… Ele vai vir." |
+| 6 | 🔊 Narração 06 | José se deita para dormir |
+| 7 | 🔊 Narração 07 | José: "Maria… eu acredito. Vamos juntos." |
+| 8 | 🔊 Narração 08 | José: "Muito obrigado. Deus te abençoe." |
+| 9 | 🔊 Narração 09 | Luz acende na manjedoura (após 3 s de silêncio) |
+| 10 | 🎵 **Noite de Paz / Jesus, Te Amamos** (crianças) | José: "Emanuel. Deus conosco." |
+| 11 | 🔊 Narração 10 | Pastores sentados na fogueira |
+| 12 | 🎵 **Gênesis** | Anjo: "Não tenham medo!" |
+| 13 | 🔊 Narração 11 | Maria: "Ele é. A promessa se cumpriu." |
+| 14 | 🎵 **Medley Natal** | Fim da Narração 11 |
+| 15 | 🔊 Narração 12 | Fim do Medley, elenco em volta da manjedoura |
+| 16 | 🎵 **Nasceu o Redentor** (todos) | Fim da Narração 12: "…Nasceu o Redentor!" |
 
 ---
 
@@ -168,7 +174,7 @@ Coloque tudo numa pasta ou playlist **nesta ordem**:
 
 1. **Ensaie a música antes da cena.** Se as músicas estiverem seguras, o teatro se encaixa. O contrário não funciona.
 2. **Crianças:** ensaie sempre no mesmo lugar e posição. Coloque um adulto de referência na frente delas (fora da vista da plateia) fazendo a letra com a boca.
-3. **Cenas curtas de verdade.** Se alguma passar de 4 min, corte. A força da peça está nas músicas.
+3. **Partes curtas de verdade.** Cada parte do Bloco 1 (1a a 1e) deve ter no máximo 2 minutos. Se passar disso, corte. A força da peça está nas músicas.
 4. **Grave os ensaios** no celular e mostre ao elenco.
 5. **Uma pessoa só no som**, com esta lista impressa.
 6. **Plano B:** músicas e narração baixadas em 2 aparelhos.
@@ -182,6 +188,6 @@ Coloque tudo numa pasta ou playlist **nesta ordem**:
 - [ ] Quantos adultos e quantas crianças: ______________________
 - [ ] Ao vivo com banda ou playback?
 - [ ] Quem grava a narração?
-- [ ] Ouvir **Gênesis** e marcar os momentos de luz
-- [ ] Ouvir o **Medley Natal** e decidir os cortes
-- [ ] Confirmar se as crianças dão conta de **Noite de Paz** inteira ou só do refrão
+- [ ] Decidir se o ator do anjo (C) canta a 1ª estrofe de **Gênesis** sozinho
+- [ ] Ouvir o **Medley Natal** e decidir se ele será cortado
+- [ ] Confirmar se as crianças cantam **Noite de Paz** inteira ou só "Jesus, Te amamos"

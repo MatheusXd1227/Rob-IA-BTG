@@ -15,7 +15,18 @@ Falas de todos os personagens e narração de fundo. **Este é o texto oficial d
 - **[pausa]** = respirar e esperar ~2 segundos
 - 🎵 = entra o louvor
 
-**Elenco (exemplo com 6 adultos):** A = Eva / Maria · B = Adão / José · C = Gabriel · D = Hospedeiro 1 / Pastor 1 · E = Hospedeiro 2 / Pastor 2 · F = Moradora de Belém / Pastor 3 · Crianças = Anjos
+**Elenco (exemplo com 6 adultos):** A = Eva / Maria · B = Adão / José · C = Gabriel / Anjo do Senhor · D = Hospedeiro 1 / Pastor 1 · E = Hospedeiro 2 / Pastor 2 · F = Moradora de Belém / Pastor 3 · Crianças = Anjos
+
+> **Sobre o anjo:** a Bíblia chama de **Gabriel** apenas o anjo que fala com Maria (Lucas 1.26). No sonho de José (Mateus 1.20) e no anúncio aos pastores (Lucas 2.9), o texto diz só **"um anjo do Senhor"**. O mesmo ator (C) faz os dois, mas no texto o personagem muda de nome.
+
+## A peça em 4 blocos
+
+| Bloco | Cena | Depois, o louvor | Quem canta |
+|-------|------|------------------|-----------|
+| 1 | **A promessa e o nascimento**: criação, queda, profetas, anúncio a Maria, sonho de José, "não há lugar" e o nascimento | 🎵 **Noite de Paz / Jesus, Te Amamos** | ⭐ Crianças |
+| 2 | **O anúncio aos pastores**: o anjo aparece no campo | 🎵 **Gênesis** ("Trago boas notícias…") | Anjo e pastores (adultos) |
+| 3 | **Os pastores em Belém**: adoram o menino e voltam louvando | 🎵 **Medley Natal** ("Surgem anjos proclamando…") | Adultos + crianças no "Glória" |
+| 4 | **Da manjedoura à cruz**: a mensagem final | 🎵 **Nasceu o Redentor** | ⭐ Todos + igreja |
 
 ---
 
@@ -33,9 +44,11 @@ Falas de todos os personagens e narração de fundo. **Este é o texto oficial d
 
 ---
 
-## BLOCO 1: NO PRINCÍPIO
+## BLOCO 1: A PROMESSA E O NASCIMENTO
 
-*A luz sobe devagar. Os tecidos azul, verde e amarelo começam a se mover. Adão e Eva entram pelo fundo, devagar, olhando tudo ao redor.*
+### 1a. No princípio
+
+*A luz sobe devagar. C, D, E e F movimentam os tecidos azul, verde e amarelo. Adão e Eva entram pelo fundo, devagar, olhando tudo ao redor.*
 
 🔊 **NARRAÇÃO 2**
 > No princípio, Deus criou os céus e a terra.
@@ -70,22 +83,16 @@ O que foi que nós fizemos?
 **EVA** *(com esperança, olhando para cima)*
 Um Redentor… Ele vai vir.
 
-### 🎵 GÊNESIS (elenco adulto)
-*Todos vão até os microfones e cantam. A luz sobe aos poucos durante a música.*
+*Blackout rápido. Na troca: A coloca o manto azul (Maria) e pega a vassoura. C coloca a faixa dourada (Gabriel). D, E e F recolhem os tecidos e colocam os aventais.*
 
----
-
-## BLOCO 2: O ANÚNCIO E A VIAGEM
-
-*Ao final de Gênesis, todos voltam para trás. A coloca o manto azul (Maria). C coloca a faixa dourada (Gabriel). Maria pega a vassoura.*
+### 1b. O anúncio a Maria
 
 🔊 **NARRAÇÃO 5**
 > Passaram-se gerações. Reis subiram e caíram.
 > Mas os profetas mantinham a promessa viva.
 > Isaías anunciou: "Eis que a virgem conceberá e dará à luz um filho, e o chamará Emanuel: Deus conosco".
 > Miqueias apontou o lugar: "E tu, Belém… de ti sairá aquele que governará o meu povo". **[pausa]**
-> Depois, por quatrocentos anos, o céu ficou em silêncio. **[pausa]**
-> Até que, numa pequena cidade chamada Nazaré…
+> Até que, numa pequena cidade chamada Nazaré, Deus enviou o anjo Gabriel…
 
 *Luz suave no centro. Maria varre a casa, cantarolando baixinho. Gabriel entra por trás dela.*
 
@@ -109,6 +116,8 @@ O Espírito Santo virá sobre você. Para Deus, nada é impossível.
 **MARIA** *(ajoelha devagar, abre as mãos)*
 Aqui está a serva do Senhor. Que aconteça comigo conforme a tua palavra.
 
+### 1c. O sonho de José
+
 *Gabriel sai. Maria fica ajoelhada. Do outro lado, José entra, vê Maria de longe, balança a cabeça, preocupado, e se deita num canto, de lado, como quem dorme.*
 
 🔊 **NARRAÇÃO 6**
@@ -116,18 +125,20 @@ Aqui está a serva do Senhor. Que aconteça comigo conforme a tua palavra.
 > Quando soube que ela estava grávida, não entendeu. E pensou em deixá-la em segredo.
 > Mas, naquela noite, um anjo do Senhor lhe apareceu em sonho.
 
-*Gabriel volta e para ao lado de José, que continua deitado.*
+*O mesmo ator (C) volta, agora como Anjo do Senhor, e para ao lado de José, que continua deitado.*
 
-**GABRIEL**
+**ANJO DO SENHOR**
 José, filho de Davi, não tenha medo de receber Maria como sua esposa.
 O que nela foi gerado vem do Espírito Santo.
 
-*Gabriel sai. José acorda, se levanta, vai até Maria e estende a mão para ela.*
+*O anjo sai. José acorda, se levanta, vai até Maria e estende a mão para ela.*
 
 **JOSÉ**
 Maria… eu acredito. Vamos juntos.
 
 *Maria segura a mão dele e se levanta.*
+
+### 1d. Não há lugar
 
 🔊 **NARRAÇÃO 7**
 > Naqueles dias, o imperador César Augusto mandou que todos fossem registrados, cada um na sua própria cidade.
@@ -154,26 +165,21 @@ Sinto muito, amigo. Não sobrou nada.
 José… está chegando a hora.
 
 **MORADORA DE BELÉM** *(F, que estava passando, se aproxima)*
-Esperem! Lá atrás tem um estábulo, onde ficam os animais. É simples… mas é quentinho.
+Esperem! Lá atrás tem um lugar onde ficam os animais. É simples… mas é quentinho.
 
 **JOSÉ**
 Muito obrigado. Deus te abençoe.
 
-*José e Maria seguem até o canto onde fica a manjedoura.*
+*José e Maria seguem até o canto onde fica a manjedoura. D, E e F saem pela lateral.*
 
 🔊 **NARRAÇÃO 8**
 > Não havia lugar para eles na hospedaria. **[pausa]**
 > O Rei dos reis não encontrou um palácio, nem um berço de ouro.
-> Encontrou um estábulo.
+> Encontrou uma manjedoura.
 
-### 🎵 MEDLEY NATAL (elenco adulto)
-*Todos vão aos microfones. Enquanto isso, o contrarregra coloca a manjedoura no lugar, e as crianças (de anjo) se posicionam no escuro, atrás dela.*
+### 1e. O nascimento
 
----
-
-## BLOCO 3: A MANJEDOURA
-
-*Blackout. **3 segundos de silêncio total.** Luz quente acende só na manjedoura: Maria com o bebê no colo, José ajoelhado ao lado.*
+*Blackout. **3 segundos de silêncio total.** As crianças (de anjo) se posicionam no escuro, atrás da manjedoura. Luz quente acende só na manjedoura: Maria com o bebê no colo, José ajoelhado ao lado.*
 
 🔊 **NARRAÇÃO 9**
 > E foi ali, numa noite comum, numa cidade pequena, que aconteceu o maior milagre da história.
@@ -190,20 +196,25 @@ Emanuel. Deus conosco.
 
 *Maria deita o bebê na manjedoura. A luz se abre aos poucos e revela as crianças vestidas de anjo em volta.*
 
-### 🎵 NOITE DE PAZ (crianças)
+### 🎵 NOITE DE PAZ / JESUS, TE AMAMOS (crianças)
 *As crianças cantam. Maria e José ficam parados, como num quadro, atrás delas.*
+- **"Noite de paz"**: as crianças cantam olhando para a manjedoura.
+- **"Glória a Deus! Cantam anjos lá nos céus"**: as crianças levantam os braços.
+- **"Jesus, Te amamos"**: as crianças se viram para a manjedoura e colocam as mãos no coração. É a parte mais fácil para elas: se a primeira parte for difícil, um adulto canta "Noite de paz" e as crianças entram em "Jesus, Te amamos".
+
+*Durante a música, D, E e F trocam o avental pelo pano listrado e pegam os cajados (pastores).*
 
 ---
 
-## BLOCO 4: OS PASTORES
+## BLOCO 2: O ANÚNCIO AOS PASTORES
 
-*Ao final da música, as crianças ficam onde estão, em volta da manjedoura, na penumbra. Do outro lado (ou nos degraus, perto da plateia), D, E e F, agora pastores, sentam em volta da fogueira. Luz baixa.*
+*Ao final da música, a luz da manjedoura baixa (Maria, José e as crianças ficam na penumbra). Do outro lado (ou nos degraus, perto da plateia), D, E e F, agora pastores, sentam em volta da fogueira. Luz baixa.*
 
 🔊 **NARRAÇÃO 10**
 > Naquela mesma noite, nos campos perto de Belém, havia pastores cuidando dos seus rebanhos.
 > Gente simples, que trabalhava enquanto a cidade dormia.
 > Gente que ninguém notava. **[pausa]**
-> Mas foi para eles que o céu escolheu contar a notícia primeiro.
+> Mas foi para eles que Deus mandou contar a notícia primeiro.
 
 **PASTOR 1** *(D, esfregando as mãos perto do fogo)*
 Que noite fria…
@@ -217,28 +228,39 @@ Meu avô dizia que o Messias ia chegar a qualquer momento. Será que a gente vai
 **PASTOR 1** *(rindo, desanimado)*
 O Messias? Para gente como nós? Ninguém nem olha pra gente…
 
-*DE REPENTE: **luz total!** Gabriel aparece. Os pastores caem de joelhos, protegendo os olhos.*
+*DE REPENTE: **luz total!** O Anjo do Senhor (C) aparece. Os pastores caem de joelhos, protegendo os olhos.*
 
 **OS TRÊS PASTORES** *(juntos, assustados)*
 Ahh!
 
-**GABRIEL**
-Não tenham medo! Eu trago boas notícias de grande alegria, que são para todo o povo:
-hoje, na cidade de Davi, nasceu o Salvador, que é Cristo, o Senhor! **[pausa]**
-E este será o sinal: vocês vão encontrar um bebê envolto em panos, deitado numa manjedoura.
+**ANJO DO SENHOR** *(braços abertos)*
+Não tenham medo!
 
-*A luz acende também sobre as crianças-anjo, que levantam os braços.*
+### 🎵 GÊNESIS (anjo e pastores)
+*A música começa e é a própria mensagem do anjo: "Trago boas notícias de paz e alegria, vos nasceu o Salvador, que é Cristo, o Senhor".*
+- **Se o ator C canta bem:** ele canta a 1ª estrofe sozinho, ainda em cena, ao microfone mais próximo. No refrão "Paz na Terra entre os homens", os pastores se levantam e cantam juntos.
+- **Se não:** o anjo fica de braços abertos e o grupo canta tudo junto nos microfones.
+- **No refrão "Paz na Terra…"**: a luz acende também sobre as crianças-anjo, que levantam os braços (se souberem, cantam junto).
+
+*Ao final da música, os pastores ficam de pé, olhando uns para os outros, maravilhados.*
+
+**ANJO DO SENHOR**
+E este será o sinal: vocês vão encontrar um bebê envolto em panos, deitado numa manjedoura.
 
 **CRIANÇAS-ANJO** *(todas juntas, bem alto)*
 Glória a Deus nas alturas, e paz na terra!
 
-**PASTOR 3** *(levantando, emocionado)*
+**PASTOR 3** *(emocionado)*
 Vocês ouviram? Ele veio… Ele veio pra nós!
 
 **PASTOR 1**
 Vamos até Belém ver o que o Senhor nos revelou!
 
-*Os pastores correm até a manjedoura e se ajoelham diante do bebê.*
+---
+
+## BLOCO 3: OS PASTORES EM BELÉM
+
+*Os pastores atravessam o palco (ou o corredor da igreja) depressa até a manjedoura. A luz da manjedoura volta. Eles se ajoelham diante do bebê.*
 
 **PASTOR 1** *(para Maria, com a voz embargada)*
 Um anjo nos disse… que este menino é o Salvador.
@@ -246,19 +268,24 @@ Um anjo nos disse… que este menino é o Salvador.
 **MARIA** *(sorri, olha para o bebê)*
 Ele é. A promessa se cumpriu.
 
-### 🎵 NASCEU O REDENTOR (todos)
-*Todo o elenco e as crianças formam um semicírculo em volta da manjedoura (ou vão aos microfones). Na 2ª estrofe, o Pastor 1 vira para a igreja e convida:*
+🔊 **NARRAÇÃO 11**
+> Os pastores contaram tudo o que o anjo tinha dito sobre aquele menino.
+> E Maria guardava todas essas coisas, meditando no seu coração. **[pausa]**
+> Depois, os pastores voltaram para os campos, glorificando e louvando a Deus por tudo o que tinham ouvido e visto.
 
-**PASTOR 1** *(no instrumental, abrindo os braços para a igreja)*
-Igreja, fique de pé e cante com a gente!
+### 🎵 MEDLEY NATAL (adultos + crianças no "Glória")
+*Os pastores se levantam, vão para os microfones e começam a cantar. Todo o elenco adulto se junta.*
+- **"Surgem anjos proclamando… vão-se alegres os pastores ver o Infante celestial"**: adultos.
+- **"Glória a Deus nas alturas"**: as crianças cantam junto (é o mesmo grito que elas deram na cena anterior).
+- **"Reina em mim com Teu poder"** e **"Grandioso és Tu"**: o elenco canta voltado para a manjedoura, como resposta pessoal de adoração.
 
 ---
 
-## ENCERRAMENTO
+## BLOCO 4: DA MANJEDOURA À CRUZ
 
-*A música termina. Todos ficam congelados. Luz baixa, só na manjedoura.*
+*A música termina. Todo o elenco e as crianças se posicionam em semicírculo em volta da manjedoura. Luz baixa.*
 
-🔊 **NARRAÇÃO 11**
+🔊 **NARRAÇÃO 12**
 > A história que começou no princípio não terminou em Belém.
 > Aquele menino cresceu. Curou, ensinou, perdoou, amou…
 > E foi até a cruz, para pagar o preço do nosso pecado.
@@ -266,10 +293,16 @@ Igreja, fique de pé e cante com a gente!
 > A promessa feita no Éden se cumpriu por completo. **[pausa longa]**
 > Naquela noite, em Belém, não havia lugar para Ele.
 > E hoje? **[pausa]**
-> Há lugar para Ele no seu coração? **[pausa longa]**
-> Feliz Natal.
+> Há lugar para Ele no seu coração? **[pausa]**
+> Alerta, ó terra! Nasceu o Redentor!
 
-*Blackout. Luzes acendem. Elenco e crianças agradecem.*
+### 🎵 NASCEU O REDENTOR (todos)
+*Luz total. Elenco e crianças cantam em volta da manjedoura (ou nos microfones). Antes da 2ª estrofe, o Pastor 1 vira para a igreja e convida:*
+
+**PASTOR 1** *(no instrumental, abrindo os braços para a igreja)*
+Igreja, fique de pé e cante com a gente!
+
+*A música termina. Todos ficam congelados por 3 segundos. Blackout. Luzes acendem. Elenco e crianças agradecem.*
 
 ---
 ---
@@ -290,14 +323,15 @@ Igreja, fique de pé e cante com a gente!
 | 02 | A Criação | 35 s |
 | 03 | A queda | 25 s |
 | 04 | A promessa | 25 s |
-| 05 | Os profetas / Nazaré | 45 s |
+| 05 | Os profetas / Nazaré | 35 s |
 | 06 | O sonho de José | 20 s |
 | 07 | A viagem a Belém | 25 s |
 | 08 | Não há lugar | 15 s |
 | 09 | O nascimento | 35 s |
-| 10 | Os pastores | 25 s |
-| 11 | Encerramento | 45 s |
-| | **Total de narração** | **≈ 5 min** |
+| 10 | Os pastores no campo | 25 s |
+| 11 | Os pastores em Belém | 25 s |
+| 12 | Da manjedoura à cruz | 45 s |
+| | **Total de narração** | **≈ 5 min 30 s** |
 
 ### 01 · Abertura
 Toda história tem um começo.
@@ -327,8 +361,7 @@ Passaram-se gerações. Reis subiram e caíram.
 Mas os profetas mantinham a promessa viva.
 Isaías anunciou: "Eis que a virgem conceberá e dará à luz um filho, e o chamará Emanuel: Deus conosco".
 Miqueias apontou o lugar: "E tu, Belém… de ti sairá aquele que governará o meu povo". **[pausa]**
-Depois, por quatrocentos anos, o céu ficou em silêncio. **[pausa]**
-Até que, numa pequena cidade chamada Nazaré…
+Até que, numa pequena cidade chamada Nazaré, Deus enviou o anjo Gabriel…
 
 ### 06 · O sonho de José
 José, o noivo de Maria, era um homem justo.
@@ -343,7 +376,7 @@ Foram dias de caminhada.
 ### 08 · Não há lugar
 Não havia lugar para eles na hospedaria. **[pausa]**
 O Rei dos reis não encontrou um palácio, nem um berço de ouro.
-Encontrou um estábulo.
+Encontrou uma manjedoura.
 
 ### 09 · O nascimento
 E foi ali, numa noite comum, numa cidade pequena, que aconteceu o maior milagre da história.
@@ -352,13 +385,18 @@ A promessa feita lá no Éden… estava ali.
 O Verbo se fez carne e habitou entre nós. **[pausa]**
 Deus estava ali… dormindo numa manjedoura.
 
-### 10 · Os pastores
+### 10 · Os pastores no campo
 Naquela mesma noite, nos campos perto de Belém, havia pastores cuidando dos seus rebanhos.
 Gente simples, que trabalhava enquanto a cidade dormia.
 Gente que ninguém notava. **[pausa]**
-Mas foi para eles que o céu escolheu contar a notícia primeiro.
+Mas foi para eles que Deus mandou contar a notícia primeiro.
 
-### 11 · Encerramento
+### 11 · Os pastores em Belém
+Os pastores contaram tudo o que o anjo tinha dito sobre aquele menino.
+E Maria guardava todas essas coisas, meditando no seu coração. **[pausa]**
+Depois, os pastores voltaram para os campos, glorificando e louvando a Deus por tudo o que tinham ouvido e visto.
+
+### 12 · Da manjedoura à cruz
 A história que começou no princípio não terminou em Belém.
 Aquele menino cresceu. Curou, ensinou, perdoou, amou…
 E foi até a cruz, para pagar o preço do nosso pecado.
@@ -366,8 +404,8 @@ E, ao terceiro dia, ressuscitou. **[pausa]**
 A promessa feita no Éden se cumpriu por completo. **[pausa longa]**
 Naquela noite, em Belém, não havia lugar para Ele.
 E hoje? **[pausa]**
-Há lugar para Ele no seu coração? **[pausa longa]**
-Feliz Natal.
+Há lugar para Ele no seu coração? **[pausa]**
+Alerta, ó terra! Nasceu o Redentor!
 
 ---
 ---
@@ -390,7 +428,7 @@ Feliz Natal.
 | Narração 9 termina: "…dormindo numa manjedoura." | **MARIA:** Jesus… |
 | Pastor 1: "…este menino é o Salvador." | **MARIA:** Ele é. A promessa se cumpriu. |
 
-**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica + manto azul a partir do Bloco 2
+**Canta:** Gênesis (da manjedoura, se houver microfone), Medley Natal, Nasceu o Redentor · **Figurino:** túnica + manto azul a partir do 1b
 
 ## ATOR B: Adão / José
 
@@ -398,25 +436,26 @@ Feliz Natal.
 |-------|------|
 | Narração 2 termina: "…e viu que era muito bom." | **ADÃO:** Eva, olha isso! Tudo foi feito pelas mãos do Criador. |
 | A luz cai, os tecidos caem *(depois da Narração 3)* | **ADÃO:** O que foi que nós fizemos? |
-| Gabriel: "…vem do Espírito Santo." *(acordar, ir até Maria)* | **JOSÉ:** Maria… eu acredito. Vamos juntos. |
+| Anjo: "…vem do Espírito Santo." *(acordar, ir até Maria)* | **JOSÉ:** Maria… eu acredito. Vamos juntos. |
 | Bater na primeira porta *(depois da Narração 7)* | **JOSÉ:** Por favor, a minha esposa vai dar à luz. Vocês têm um quarto? |
 | Hospedeiro 1: "…por causa do recenseamento!" *(ir à 2ª porta)* | **JOSÉ:** Por favor, qualquer canto serve… |
 | Moradora: "…mas é quentinho." | **JOSÉ:** Muito obrigado. Deus te abençoe. |
 | Maria: "Jesus…" | **JOSÉ:** Emanuel. Deus conosco. |
 
-**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica + pano na cabeça a partir do Bloco 2
+**Canta:** Gênesis (da manjedoura, se houver microfone), Medley Natal, Nasceu o Redentor · **Figurino:** túnica + pano na cabeça a partir do 1b
 
-## ATOR C: Gabriel
+## ATOR C: Gabriel / Anjo do Senhor
 
 | Deixa | Fala |
 |-------|------|
-| Narração 5 termina: "…chamada Nazaré…" *(entrar)* | Alegra-te, Maria! O Senhor está contigo. |
-| Maria: "…O que isso quer dizer?" | Não tenha medo, Maria. Deus se agradou de você. Você vai ter um filho, e vai chamá-lo de Jesus. Ele será chamado Filho do Altíssimo, e o seu reino não terá fim. |
-| Maria: "…Eu ainda não sou casada." | O Espírito Santo virá sobre você. Para Deus, nada é impossível. |
-| Narração 6 termina: "…apareceu em sonho." *(ao lado de José)* | José, filho de Davi, não tenha medo de receber Maria como sua esposa. O que nela foi gerado vem do Espírito Santo. |
-| Luz total, pastores gritam "Ahh!" | Não tenham medo! Eu trago boas notícias de grande alegria, que são para todo o povo: hoje, na cidade de Davi, nasceu o Salvador, que é Cristo, o Senhor! E este será o sinal: vocês vão encontrar um bebê envolto em panos, deitado numa manjedoura. |
+| Narração 5 termina: "…Deus enviou o anjo Gabriel…" *(entrar)* | **GABRIEL:** Alegra-te, Maria! O Senhor está contigo. |
+| Maria: "…O que isso quer dizer?" | **GABRIEL:** Não tenha medo, Maria. Deus se agradou de você. Você vai ter um filho, e vai chamá-lo de Jesus. Ele será chamado Filho do Altíssimo, e o seu reino não terá fim. |
+| Maria: "…Eu ainda não sou casada." | **GABRIEL:** O Espírito Santo virá sobre você. Para Deus, nada é impossível. |
+| Narração 6 termina: "…apareceu em sonho." *(ao lado de José)* | **ANJO:** José, filho de Davi, não tenha medo de receber Maria como sua esposa. O que nela foi gerado vem do Espírito Santo. |
+| Luz total, pastores gritam "Ahh!" | **ANJO:** Não tenham medo! *(entra a música Gênesis)* |
+| Fim da música Gênesis | **ANJO:** E este será o sinal: vocês vão encontrar um bebê envolto em panos, deitado numa manjedoura. |
 
-**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica + faixa dourada a partir do Bloco 2
+**Canta:** Gênesis (se possível, a 1ª estrofe sozinho), Medley Natal, Nasceu o Redentor · **Figurino:** túnica + faixa dourada a partir do 1b
 > É o papel com mais texto. Dica: decore a **ideia** de cada fala e use as suas palavras se precisar.
 
 ## ATOR D: Hospedeiro 1 / Pastor 1
@@ -429,9 +468,9 @@ Feliz Natal.
 | Luz total *(junto com E e F)* | **PASTORES:** Ahh! |
 | Pastor 3: "…Ele veio pra nós!" | **PASTOR 1:** Vamos até Belém ver o que o Senhor nos revelou! |
 | Ajoelhado diante da manjedoura | **PASTOR 1:** Um anjo nos disse… que este menino é o Salvador. |
-| 2ª estrofe de Nasceu o Redentor | **PASTOR 1:** Igreja, fique de pé e cante com a gente! |
+| Antes da 2ª estrofe de Nasceu o Redentor | **PASTOR 1:** Igreja, fique de pé e cante com a gente! |
 
-**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica · avental (Bloco 2) · pano listrado + cajado (Bloco 4)
+**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica · avental (1d) · pano listrado + cajado (Blocos 2 a 4; trocar durante Noite de Paz)
 
 ## ATOR E: Hospedeiro 2 / Pastor 2
 
@@ -441,31 +480,35 @@ Feliz Natal.
 | Pastor 1: "Que noite fria…" | **PASTOR 2:** Pelo menos as ovelhas estão calmas hoje. |
 | Luz total *(junto com D e F)* | **PASTORES:** Ahh! |
 
-**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica · avental (Bloco 2) · pano listrado + cajado (Bloco 4)
+**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica · avental (1d) · pano listrado + cajado (Blocos 2 a 4; trocar durante Noite de Paz)
 
 ## ATOR F: Moradora de Belém / Pastor 3
 
 | Deixa | Fala |
 |-------|------|
-| Maria: "José… está chegando a hora." | **MORADORA:** Esperem! Lá atrás tem um estábulo, onde ficam os animais. É simples… mas é quentinho. |
+| Maria: "José… está chegando a hora." | **MORADORA:** Esperem! Lá atrás tem um lugar onde ficam os animais. É simples… mas é quentinho. |
 | Pastor 2: "…as ovelhas estão calmas hoje." | **PASTOR 3:** Meu avô dizia que o Messias ia chegar a qualquer momento. Será que a gente vai ver isso? |
 | Luz total *(junto com D e E)* | **PASTORES:** Ahh! |
 | Crianças: "Glória a Deus nas alturas, e paz na terra!" | **PASTOR 3:** Vocês ouviram? Ele veio… Ele veio pra nós! |
 
-**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica · cesto (Bloco 2) · pano listrado + cajado (Bloco 4)
+**Canta:** Gênesis, Medley Natal, Nasceu o Redentor · **Figurino:** túnica · cesto (1d) · pano listrado + cajado (Blocos 2 a 4; trocar durante Noite de Paz)
 
 ## CRIANÇAS: Anjos
 
-| Deixa | Fala |
-|-------|------|
-| Gabriel: "…deitado numa manjedoura." *(levantar os braços)* | **TODAS JUNTAS:** Glória a Deus nas alturas, e paz na terra! |
+| Deixa | O que fazer |
+|-------|-------------|
+| Luz revela as crianças em volta da manjedoura | **Cantam:** Noite de Paz / Jesus, Te Amamos |
+| Refrão de Gênesis ("Paz na Terra…") | Levantam os braços (e cantam junto, se souberem) |
+| Anjo: "…deitado numa manjedoura." | **Falam, todas juntas:** Glória a Deus nas alturas, e paz na terra! |
+| Medley: "Glória a Deus nas alturas" | **Cantam junto** com os adultos |
+| Nasceu o Redentor | **Cantam junto** com todos |
 
-**Cantam:** Noite de Paz (sozinhas) e Nasceu o Redentor (com todos) · **Figurino:** roupa branca + auréola
-> Ensaie a frase como um "grito de alegria" combinado: um adulto fora do palco levanta a mão, e elas falam juntas.
+**Figurino:** roupa branca + auréola
+> Ensaie a frase "Glória a Deus nas alturas" como um grito de alegria combinado: um adulto fora do palco levanta a mão, e elas falam juntas. A mesma frase volta no Medley, então elas aprendem uma vez e usam duas.
 
 ---
 
 ## Se tiver menos de 6 adultos
 
-- **4 adultos:** C também faz Hospedeiro 1 e Pastor 1 (as falas de D). E também faz a Moradora e o Pastor 3 (as falas de F). No Bloco 4, fica com **2 pastores** e o Gabriel aparece como **voz gravada** ou é feito por outra pessoa.
+- **4 adultos (A, B, C e D):** D faz um único hospedeiro, que primeiro diz "Não há lugar!" e depois, com pena, oferece o lugar dos animais (fala da Moradora). No Bloco 2, D é o Pastor 1 e fica com as falas do Pastor 3. Para não ficar um pastor só, convide 1 ou 2 adolescentes para serem pastores sem fala.
 - **Falta alguém no dia:** as falas dos hospedeiros e dos pastores podem ser ditas por quem estiver no palco. A narração continua igual.
