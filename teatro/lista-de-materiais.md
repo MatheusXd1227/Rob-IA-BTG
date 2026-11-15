@@ -1,23 +1,23 @@
 # Lista de materiais: "Do Princípio à Manjedoura"
 
-Calculada para **6 adultos + até 10 crianças**. Os preços são **estimativas** para armarinho, loja de tecidos ou papelaria: confira na sua cidade.
+Calculada para **10 adultos + 4 crianças**. Os preços são **estimativas** para armarinho, loja de tecidos ou papelaria: confira na sua cidade.
 
 > 💡 **Antes de comprar:** mande a seção "Pedir emprestado / trazer de casa" no grupo da igreja. Muita coisa aparece de graça (lençóis, cestos, boneco, cabos de vassoura).
 
 ---
 
-## 1. Comprar: versão econômica (≈ R$ 260)
+## 1. Comprar: versão econômica (≈ R$ 325)
 
 | Item | Para quê | Quantidade | Preço aprox. |
 |------|----------|-----------|--------------|
-| TNT bege ou cru | Túnicas do elenco adulto | 15 m (2,5 m por pessoa) | R$ 45 |
+| TNT bege ou cru | Túnicas do elenco adulto | 25 m (2,5 m por pessoa) | R$ 75 |
 | Cordão (sisal ou de algodão) | Amarrar as túnicas na cintura | 1 rolo (~10 m) | R$ 15 |
 | TNT azul | Manto de Maria | 2 m | R$ 6 |
-| Tecido dourado (lamê ou cetim) | Faixa do anjo Gabriel | 1 m | R$ 20 |
+| Tecido dourado (lamê ou cetim) | Faixas do anjo (P5) e dos anjos P9 e P10 | 3 m | R$ 60 |
 | TNT azul, verde e amarelo | Tecidos da cena da Criação | 3 m de cada (9 m) | R$ 27 |
 | TNT preto | Fundo do palco / biombo para as trocas | 10 m (medir o palco) | R$ 40 |
 | Arame galvanizado fino | Auréolas das crianças | 1 rolo | R$ 10 |
-| Festão dourado (enfeite de Natal) | Cobrir as auréolas | 3 a 4 unidades | R$ 25 |
+| Festão dourado (enfeite de Natal) | Cobrir as 4 auréolas | 2 unidades | R$ 15 |
 | Palha decorativa ou feno (pet shop) | Manjedoura | 1 pacote | R$ 15 |
 | Lanterna LED | Fogueira dos pastores | 1 | R$ 20 |
 | Papel celofane laranja e vermelho | Fogueira | 3 folhas | R$ 6 |
@@ -25,7 +25,7 @@ Calculada para **6 adultos + até 10 crianças**. Os preços são **estimativas*
 | Alfinetes de segurança | Prender mantos e ajustes de figurino | 1 caixa | R$ 5 |
 | Pilhas | Lanterna, microfones sem fio | 1 cartela | R$ 20 |
 | Maçã | Cena de Adão e Eva | 1 (comprar no dia) | R$ 2 |
-| | | **Total** | **≈ R$ 264** |
+| | | **Total** | **≈ R$ 324** |
 
 ---
 

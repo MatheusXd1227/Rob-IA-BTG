@@ -15,7 +15,9 @@ Falas de todos os personagens e narração de fundo. **Este é o texto oficial d
 - **[pausa]** = respirar e esperar ~2 segundos
 - 🎵 = entra o louvor
 
-**Elenco (exemplo com 6 adultos):** A = Eva / Maria · B = Adão / José · C = Gabriel / Anjo do Senhor · D = Hospedeiro 1 / Pastor 1 · E = Hospedeiro 2 / Pastor 2 · F = Moradora de Belém / Pastor 3 · Crianças = Anjos
+> 🖨️ **Elenco definido: 10 adultos + 4 crianças.** A divisão de papéis para esse elenco (P1 a P10 e C1 a C4), com as falas de cada um, está nos PDFs da pasta [impressao](impressao/). Os PDFs incluem duas falas novas dos viajantes de Belém (P9 e P10). Este arquivo continua valendo como texto de referência.
+
+**Elenco (versão antiga, com 6 adultos):** A = Eva / Maria · B = Adão / José · C = Gabriel / Anjo do Senhor · D = Hospedeiro 1 / Pastor 1 · E = Hospedeiro 2 / Pastor 2 · F = Moradora de Belém / Pastor 3 · Crianças = Anjos
 
 > **Sobre o anjo:** a Bíblia chama de **Gabriel** apenas o anjo que fala com Maria (Lucas 1.26). No sonho de José (Mateus 1.20) e no anúncio aos pastores (Lucas 2.9), o texto diz só **"um anjo do Senhor"**. O mesmo ator (C) faz os dois, mas no texto o personagem muda de nome.
 
