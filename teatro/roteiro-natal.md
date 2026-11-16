@@ -64,14 +64,16 @@ As trocas acontecem **durante as músicas** (quem não canta aquele trecho troca
 | Pessoa | Bloco 1 | Blocos 2 a 4 | Falas |
 |--------|---------|--------------|-------|
 | **Naldo** | Adão (1a) → **José** (1c a 1e) | José | 7 |
-| **Rute** | Eva (1a) → Moradora de Belém (1d) | Anjo | 4 |
-| **Lúcia** | Tecido azul (1a) → **Maria** no anúncio e no sonho de José (1b, 1c) | Anjo | 4 |
+| **Rute** | Eva (1a) → Moradora de Belém (1d) | Coral (Bloco 2) e moradora | 3 |
+| **Lúcia** | Tecido azul (1a) → **Maria** no anúncio e no sonho de José (1b, 1c) | Coral (Bloco 2) e moradora | 3 |
 | **Chris** | Tecido verde (1a) → **Maria grávida** (1d) e no nascimento (1e) | Maria | 3 |
 | **Douglas** | Gabriel (1b) → Anjo do Senhor (1c) | Anjo do Senhor | 6 |
 | **Walcyr** | Tecido azul (1a) → Viajante 1 (1d) | Pastor 1 | 7 |
 | **Haroldo** | Tecido verde (1a) → Hospedeiro (1d, o único) | Pastor 2 | 3 |
 | **Toninho** (a confirmar) | Tecido amarelo (1a) → Viajante 2 (1d) | Pastor 3 | 4 |
 | **5 crianças** | Anjos na manjedoura (1e) | Anjos | 1 (juntas) |
+
+**Anjos:** o único anjo adulto é o Douglas (Gabriel / Anjo do Senhor). Rute e Lúcia cantam Gênesis como coral, na lateral, e no Bloco 3 entram como moradoras de Belém que vêm ver o menino (Lucas 2.18).
 
 **Troca das duas Marias:** no fim da parte 1c, Lúcia (Maria) e José saem juntos de mãos dadas pela lateral. Na coxia, José (Naldo) encontra Chris, que já está de manto azul e barriga de grávida, e os dois entram para a viagem a Belém (1d). A narração ("Foram dias de caminhada") cobre a passagem de tempo. Precisa de **2 mantos azuis**.
 
