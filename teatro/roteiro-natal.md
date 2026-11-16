@@ -65,9 +65,9 @@ As trocas acontecem **durante as músicas** (quem não canta aquele trecho troca
 |--------|---------|--------------|-------|
 | **Naldo** | Adão (1a) → Hospedeiro 1 (1d) | Canta | 3 |
 | **Rute** | Eva (1a) → Moradora de Belém (1d) | Anjo | 4 |
-| **Lúcia** | Tecido azul (1a) → **Maria** no anúncio e no sonho de José (1b, 1c) | Anjo | 5 |
-| **Chris** | Tecido verde (1a) → **Maria grávida** (1d) e no nascimento (1e) | Maria | 4 |
-| **José: a definir** | José (1c a 1e) | José | 7 |
+| **Lúcia** | Tecido azul (1a) → **Maria** no anúncio e no sonho de José (1b, 1c) | Anjo | 4 |
+| **Chris** | Tecido verde (1a) → **Maria grávida** (1d) e no nascimento (1e) | Maria | 3 |
+| **José: a definir** | José (1c a 1e) | José | 5 |
 | **Douglas** | Gabriel (1b) → Anjo do Senhor (1c) | Anjo do Senhor | 6 |
 | **Walcyr** | Tecido azul (1a) → Viajante 1 (1d) | Pastor 1 | 7 |
 | **Haroldo** | Tecido verde (1a) → Hospedeiro 2 (1d) | Pastor 2 | 3 |
