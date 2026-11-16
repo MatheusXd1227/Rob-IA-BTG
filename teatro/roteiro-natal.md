@@ -59,25 +59,26 @@ As trocas acontecem **durante as músicas** (quem não canta aquele trecho troca
 
 ---
 
-## 3. Elenco (exemplo para 6 adultos + crianças)
+## 3. Elenco definido (9 adultos + 5 crianças)
 
-Todos os personagens têm **falas curtas** (veja a Parte 3 do [texto completo](texto-falas-e-narracao.md)). A narração gravada conduz a história.
+| Pessoa | Bloco 1 | Blocos 2 a 4 | Falas |
+|--------|---------|--------------|-------|
+| **Naldo** | Adão (1a) → Hospedeiro 1 (1d) | Canta | 3 |
+| **Rute** | Eva (1a) → Moradora de Belém (1d) | Anjo | 4 |
+| **Lúcia** | Tecido azul (1a) → **Maria** no anúncio e no sonho de José (1b, 1c) | Anjo | 5 |
+| **Chris** | Tecido verde (1a) → **Maria grávida** (1d) e no nascimento (1e) | Maria | 4 |
+| **José: a definir** | José (1c a 1e) | José | 7 |
+| **Douglas** | Gabriel (1b) → Anjo do Senhor (1c) | Anjo do Senhor | 6 |
+| **Walcyr** | Tecido azul (1a) → Viajante 1 (1d) | Pastor 1 | 7 |
+| **Haroldo** | Tecido verde (1a) → Hospedeiro 2 (1d) | Pastor 2 | 3 |
+| **Toninho** (a confirmar) | Tecido amarelo (1a) → Viajante 2 (1d) | Pastor 3 | 4 |
+| **5 crianças** | Anjos na manjedoura (1e) | Anjos | 1 (juntas) |
 
-| Ator | Bloco 1 | Bloco 2 | Bloco 3 | Bloco 4 | Canta |
-|------|---------|---------|---------|---------|-------|
-| **A** | Eva → **Maria** | Maria (na manjedoura) | **Maria** | Maria | Gênesis*, Medley, final |
-| **B** | Adão → **José** | José (na manjedoura) | **José** | José | Gênesis*, Medley, final |
-| **C** | Tecidos → **Gabriel** → Anjo (sonho de José) | **Anjo do Senhor** | Anjo | Anjo | Gênesis, Medley, final |
-| **D** | Tecidos → Hospedeiro 1 | **Pastor 1** | **Pastor 1** | Pastor 1 | Gênesis, Medley, final |
-| **E** | Tecidos → Hospedeiro 2 | Pastor 2 | Pastor 2 | Pastor 2 | Gênesis, Medley, final |
-| **F** | Tecidos → Moradora de Belém | Pastor 3 | Pastor 3 | Pastor 3 | Gênesis, Medley, final |
-| **Crianças** | Anjos na manjedoura (no fim) | Anjos ("Glória a Deus!") | Anjos | Anjos | **Noite de Paz**, "Glória" do Medley, final |
+**Troca das duas Marias:** no fim da parte 1c, Lúcia (Maria) e José saem juntos de mãos dadas pela lateral. Na coxia, José encontra Chris, que já está de manto azul e barriga de grávida, e os dois entram para a viagem a Belém (1d). A narração ("Foram dias de caminhada") cobre a passagem de tempo. Precisa de **2 mantos azuis**.
 
-\* A e B ficam na manjedoura durante Gênesis: cantam dali se houver microfone.
+**Bastidores:** Luana (som), Andreia (decoração e cenário), Braga (contrarregra 1: objetos, bebê, barriga, fogueira), Hilda (contrarregra 2: trocas de figurino). **A definir:** luz (pode ser a Luana), cuidador(a) das crianças, voz da narração e telão.
 
-Com **4 adultos**, veja o fim do [texto completo](texto-falas-e-narracao.md). Com **mais gente**, separe Adão/José, os hospedeiros e os pastores em pessoas diferentes.
-
-**Equipe fora do palco (mínimo 2 pessoas):** 1 operador de som (narração + músicas) e 1 diretor/contrarregra (coloca a manjedoura, ajuda nas trocas e cuida das crianças).
+As fichas de cada pessoa, pelo nome, estão em [impressao/](impressao/).
 
 ---
 
