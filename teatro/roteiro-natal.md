@@ -64,8 +64,8 @@ As trocas acontecem **durante as músicas** (quem não canta aquele trecho troca
 | **Naldo** | Adão (1a) → **José** (1c a 1e) | José | 7 |
 | **Rute** | Eva (1a) → Moradora de Belém (1d) | Coral (Bloco 2) e moradora | 3 |
 | **Lúcia** | Tecido azul (1a) → **Maria** no anúncio e no sonho de José (1b, 1c) | Coral (Bloco 2) e moradora | 3 |
-| **Chris** | Tecido verde (1a) → **Maria grávida** (1d) e no nascimento (1e) | Maria | 3 |
-| **Douglas** | Gabriel (1b) → Anjo do Senhor (1c) | Anjo do Senhor | 6 |
+| **Chris** | **Maria grávida** (1d) e no nascimento (1e) | Maria | 3 |
+| **Douglas** | Tecido verde (1a) → Gabriel (1b) → Anjo do Senhor (1c) | Anjo do Senhor | 6 |
 | **Walcyr** | Tecido azul (1a) → Viajante 1 (1d) | Pastor 1 | 7 |
 | **Haroldo** | Tecido verde (1a) → Hospedeiro (1d, o único) | Pastor 2 | 3 |
 | **Toninho** (a confirmar) | Tecido amarelo (1a) → Viajante 2 (1d) | Pastor 3 | 4 |
@@ -73,13 +73,13 @@ As trocas acontecem **durante as músicas** (quem não canta aquele trecho troca
 
 **Anjos:** o único anjo adulto é o Douglas (Gabriel / Anjo do Senhor). Rute e Lúcia cantam Gênesis como coral, na lateral, e no Bloco 3 entram como moradoras de Belém que vêm ver o menino (Lucas 2.18).
 
-**Troca das duas Marias:** no fim da parte 1c, Lúcia (Maria) e José saem juntos de mãos dadas pela lateral. Na coxia, José (Naldo) encontra Chris, que já está de manto azul e barriga de grávida, e os dois entram para a viagem a Belém (1d). A narração ("Foram dias de caminhada") cobre a passagem de tempo. Precisa de **2 mantos azuis**.
+**Troca das duas Marias:** no fim da parte 1c, Lúcia (Maria) e José saem juntos de mãos dadas pela lateral. Na coxia, José (Naldo) encontra Chris, já de manto azul, e os dois entram para a viagem a Belém (1d). A Chris está grávida de verdade, então não usa barriga falsa. A narração ("Foram dias de caminhada") cobre a passagem de tempo. Precisa de **2 mantos azuis**.
 
 **Adão vira José:** o Naldo sai no blackout depois da Criação e coloca o manto marrom e o pano de cabeça por cima da túnica bege (cerca de 2 a 3 minutos livres, com ajuda da Hilda). Na cena "não há lugar", há um hospedeiro só (Haroldo).
 
 **Figurinos e orçamento:** veja [figurinos/](figurinos/).
 
-**Bastidores:** Luana (som), Andreia (decoração e cenário), Braga (contrarregra 1: objetos, bebê, barriga, fogueira), Hilda (contrarregra 2: trocas de figurino). **A definir:** luz (pode ser a Luana), cuidador(a) das crianças, voz da narração e telão.
+**Bastidores:** Luana (som), Andreia (decoração e cenário), Braga (contrarregra 1: objetos, bebê, fogueira), Hilda (contrarregra 2: trocas de figurino). **A definir:** luz (pode ser a Luana), cuidador(a) das crianças, voz da narração e telão.
 
 As fichas de cada pessoa, pelo nome, estão em [impressao/](impressao/).
 
