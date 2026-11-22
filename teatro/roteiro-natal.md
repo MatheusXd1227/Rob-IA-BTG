@@ -8,14 +8,14 @@ Apresentação de **~30 minutos** para **elenco pequeno**, em que **quem canta t
 
 ## 1. Estrutura: cena → louvor
 
-A peça alterna **cenas de teatro** com **louvores**. Cada cena termina, os atores vão até os microfones e cantam a música que "responde" ao que acabou de acontecer. A ordem das músicas segue a **letra** de cada uma:
+A peça alterna **cenas de teatro** com **louvores**. **Os atores só atuam: quem canta é a equipe de louvor**, enquanto os atores continuam em cena (como um quadro vivo ou com movimentos simples). As crianças cantam Noite de Paz junto com a equipe de louvor, e Nasceu o Redentor é cantado por toda a igreja. A ordem das músicas segue a **letra** de cada uma:
 
 | Bloco | Teatro (com narração ao fundo) | Depois, o louvor | Quem canta |
 |-------|-------------------------------|------------------|-----------|
-| 1 | **A promessa e o nascimento**: criação, queda, profetas, anúncio a Maria, sonho de José, "não há lugar" e o nascimento (≈ 9 min) | 🎵 **Noite de Paz / Jesus, Te Amamos** (Paulo Cesar Baruk) | ⭐ **Crianças** (vestidas de anjos) |
-| 2 | **O anúncio aos pastores**: o anjo aparece no campo (≈ 2 min) | 🎵 **Gênesis** (Projeto Sola): "Trago boas notícias…" | Anjo e pastores (adultos) |
-| 3 | **Os pastores em Belém**: adoram o menino e voltam louvando (≈ 2 min) | 🎵 **Medley Natal** (Paulo Cesar Baruk): "Surgem anjos proclamando…" | Adultos + crianças no "Glória" |
-| 4 | **Da manjedoura à cruz**: mensagem final (≈ 1 min) | 🎵 **Nasceu o Redentor** (Cantor Cristão nº 28) | ⭐ **Todos**: elenco, crianças e igreja |
+| 1 | **A promessa e o nascimento**: criação, queda, profetas, anúncio a Maria, sonho de José, "não há lugar" e o nascimento (≈ 9 min) | 🎵 **Noite de Paz / Jesus, Te Amamos** (Paulo Cesar Baruk) | ⭐ **Crianças + equipe de louvor** |
+| 2 | **O anúncio aos pastores**: o anjo aparece no campo (≈ 2 min) | 🎵 **Gênesis** (Projeto Sola): "Trago boas notícias…" | **Equipe de louvor** (em cena: anjo e pastores) |
+| 3 | **Os pastores em Belém**: adoram o menino e voltam louvando (≈ 2 min) | 🎵 **Medley Natal** (Paulo Cesar Baruk): "Surgem anjos proclamando…" | **Equipe de louvor** (crianças cantam no "Glória") |
+| 4 | **Da manjedoura à cruz**: mensagem final (≈ 1 min) | 🎵 **Nasceu o Redentor** (Cantor Cristão nº 28) | ⭐ **Toda a igreja**, conduzida pela equipe de louvor |
 
 Links: [Gênesis](https://youtu.be/9vwQfxnLFgg) · [Medley Natal](https://youtu.be/hIYDzNoeZmk) · [Noite de Paz](https://youtu.be/ZbIkwZIu3qE) · [Nasceu o Redentor](https://youtu.be/koAO-EqTNKE)
 
@@ -31,14 +31,12 @@ O Bloco 1 é mais longo porque conta a história toda até o nascimento. Ele já
 
 ## 2. Como fazer funcionar com poucas pessoas
 
-### Microfones fixos na frente do palco
-Atores em cena não seguram microfone. Deixe **2 a 4 microfones em pedestal** na frente do palco (a "boca de cena"). O ciclo é sempre o mesmo:
+### Equipe de louvor
+A equipe de louvor fica com os microfones, ao lado do palco, e canta os louvores ao vivo. Os atores não precisam de microfone, a não ser que o espaço seja grande demais para as falas: nesse caso, use 1 ou 2 microfones de ambiente na frente do palco.
 
-1. Cena acontece no fundo/centro do palco (sem microfone, só a narração)
-2. Música começa → os atores **caminham até os pedestais e cantam, ainda com o figurino da cena**
-3. Música termina → voltam para trás e a próxima cena começa
-
-As crianças podem cantar com 1–2 microfones de pedestal baixos, ou com um adulto segurando o microfone perto delas.
+- **Gênesis e Medley Natal:** equipe de louvor
+- **Noite de Paz / Jesus, Te Amamos:** crianças + equipe de louvor (as crianças com 1 microfone de pedestal baixo)
+- **Nasceu o Redentor:** toda a igreja, conduzida pela equipe de louvor
 
 ### Narração gravada
 Grave toda a narração antes, numa voz calma, com o celular, em um lugar silencioso. Divida em **faixas separadas** (Narração 1, 2, 3…) e coloque no mesmo notebook/celular das músicas, **na ordem**. Assim:
